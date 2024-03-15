@@ -1,0 +1,7 @@
+Danh sach hocj sinh du DK nhan hoc bong 
+22120017  Vu Anh Quan
+8.9  7  6.7  Diem trung binh : 7.53333
+22120018  Nguyen Van Chung
+8.7  9  5  Diem trung binh : 7.56667
+22120019  Hoang Trong Quynh
+8.5  7  7  Diem trung binh : 7.5

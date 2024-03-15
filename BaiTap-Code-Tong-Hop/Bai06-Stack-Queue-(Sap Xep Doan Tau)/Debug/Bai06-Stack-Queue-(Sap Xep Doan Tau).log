@@ -1,0 +1,6 @@
+﻿  06.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai06-Stack-Queue-(Sap Xep Doan Tau)\06.cpp(143,27): warning C4018: '<': signed/unsigned mismatch
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai06-Stack-Queue-(Sap Xep Doan Tau)\06.cpp(145,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai06-Stack-Queue-(Sap Xep Doan Tau)\06.cpp(156,27): warning C4018: '<': signed/unsigned mismatch
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai06-Stack-Queue-(Sap Xep Doan Tau)\06.cpp(158,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai06-Stack-Queue-(Sap Xep Doan Tau).vcxproj -> E:\CODE_HOME\BaiTap-Code-Tong-Hop\Debug\Bai06-Stack-Queue-(Sap Xep Doan Tau).exe

@@ -1,0 +1,5 @@
+﻿  4.cpp
+E:\CODE_HOME\Mang_2Chieu\BaiTapVeMang2Chieu\Bai4_TimcotconhieusoFibonacciNhat\4.cpp(45,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\CODE_HOME\Mang_2Chieu\BaiTapVeMang2Chieu\Bai4_TimcotconhieusoFibonacciNhat\4.cpp(54,11): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\CODE_HOME\Mang_2Chieu\BaiTapVeMang2Chieu\Bai4_TimcotconhieusoFibonacciNhat\4.cpp(71,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Bai4_TimcotconhieusoFibonacciNhat.vcxproj -> E:\CODE_HOME\Mang_2Chieu\BaiTapVeMang2Chieu\Debug\Bai4_TimcotconhieusoFibonacciNhat.exe

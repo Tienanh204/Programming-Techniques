@@ -1,0 +1,4 @@
+﻿  10.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai10-File-Binary\10.cpp(129,11): warning C4101: 'sv': unreferenced local variable
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai10-File-Binary\10.cpp(127,8): warning C4101: 'f': unreferenced local variable
+  Bai10-File-Binary.vcxproj -> E:\CODE_HOME\BaiTap-Code-Tong-Hop\Debug\Bai10-File-Binary.exe

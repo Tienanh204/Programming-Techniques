@@ -1,0 +1,6 @@
+﻿  Code.cpp
+E:\CacThuatToan-SapXep\Mersort(BaiToan-CapNghichThe)\Code.cpp(17,11): warning C4018: '<': signed/unsigned mismatch
+E:\CacThuatToan-SapXep\Mersort(BaiToan-CapNghichThe)\Code.cpp(17,27): warning C4018: '<': signed/unsigned mismatch
+E:\CacThuatToan-SapXep\Mersort(BaiToan-CapNghichThe)\Code.cpp(31,11): warning C4018: '<': signed/unsigned mismatch
+E:\CacThuatToan-SapXep\Mersort(BaiToan-CapNghichThe)\Code.cpp(34,11): warning C4018: '<': signed/unsigned mismatch
+  Mersort(BaiToan-CapNghichThe).vcxproj -> E:\CacThuatToan-SapXep\Debug\Mersort(BaiToan-CapNghichThe).exe

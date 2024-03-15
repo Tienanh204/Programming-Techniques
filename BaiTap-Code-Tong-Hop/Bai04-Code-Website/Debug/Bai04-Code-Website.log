@@ -1,0 +1,142 @@
+﻿  LoginForm.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(3,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,1): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(7,24): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(8,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(8,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(9,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(9,37): error C2871: 'Collections': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(10,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(10,40): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(11,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(11,30): error C2871: 'Data': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(12,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(12,33): error C2871: 'Drawing': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(13,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(13,41): error C2871: 'SqlClient': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(18,2): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(18,31): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(18,38): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(19,2): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(19,2): error C2447: '{': missing function header (old-style formal list?)
+  MainForm.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(3,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,1): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(6,24): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(7,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(8,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(9,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(10,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(11,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(16,2): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(16,30): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(16,37): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(17,2): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(17,2): error C2447: '{': missing function header (old-style formal list?)
+  Program.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(3,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,1): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(7,24): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(8,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(8,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(9,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(9,37): error C2871: 'Collections': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(10,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(10,40): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(11,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(11,30): error C2871: 'Data': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(12,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(12,33): error C2871: 'Drawing': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(13,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(13,41): error C2871: 'SqlClient': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(18,2): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(18,31): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(18,38): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(19,2): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\LoginForm.h(19,2): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(3,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,1): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(6,24): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(7,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(8,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(9,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(10,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(11,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(16,2): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(16,30): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(16,37): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(17,2): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\MainForm.h(17,2): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(3,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,1): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(6,24): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(7,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(8,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(9,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(10,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(11,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(12,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(12,41): error C2871: 'SqlClient': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(17,2): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(17,34): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(17,41): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(18,2): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(18,2): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(6,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(7,17): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(7,39): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(9,6): error C2182: 'main': this use of 'void' is not valid
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(9,11): error C2065: 'array': undeclared identifier
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(9,17): error C2065: 'String': undeclared identifier
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(9,24): error C2059: syntax error: '>'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(10,1): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\Program.cpp(10,1): error C2447: '{': missing function header (old-style formal list?)
+  RegisterForm.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(3,23): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,1): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\User.h(5,23): error C2447: '{': missing function header (old-style formal list?)
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(6,24): error C2871: 'System': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(7,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(7,40): error C2871: 'ComponentModel': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(8,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(8,37): error C2871: 'Collections': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(9,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(9,40): error C2871: 'Forms': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(10,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(10,30): error C2871: 'Data': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(11,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(11,33): error C2871: 'Drawing': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(12,18): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(12,41): error C2871: 'SqlClient': a namespace with this name does not exist
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(17,2): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(17,34): error C2059: syntax error: 'public'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(17,41): error C2653: 'System': is not a class or namespace name
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(18,2): error C2143: syntax error: missing ';' before '{'
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai04-Code-Website\RegisterForm.h(18,2): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

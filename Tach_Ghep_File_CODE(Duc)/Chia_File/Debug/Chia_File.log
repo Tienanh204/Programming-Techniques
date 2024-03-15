@@ -1,0 +1,3 @@
+﻿  2.cpp
+E:\CODE_HOME\Tach_Ghep_File_CODE(Duc)\Chia_File\2.cpp(24,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Chia_File.vcxproj -> E:\CODE_HOME\Tach_Ghep_File_CODE(Duc)\Debug\Chia_File.exe

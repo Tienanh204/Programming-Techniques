@@ -1,0 +1,5 @@
+4
+22120017#Vu Anh Quan#Lao Cai#8.9#7.0#6.7
+22120018#Nguyen Van Chung#Lao Cai#8.7#9.0#5.0
+22120019#Hoang Trong Quynh#Gia Lai#8.5#7.0#7.0
+22130017#Dinh Quang Huy#Gia Lai#8.8#4.0#3.0

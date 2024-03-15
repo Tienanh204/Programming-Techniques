@@ -1,0 +1,8 @@
+﻿  07.cpp
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai07-Luong-Giao-Vien\07.cpp(60,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai07-Luong-Giao-Vien\07.cpp(64,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai07-Luong-Giao-Vien\07.cpp(68,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai07-Luong-Giao-Vien\07.cpp(74,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai07-Luong-Giao-Vien\07.cpp(78,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CODE_HOME\BaiTap-Code-Tong-Hop\Bai07-Luong-Giao-Vien\07.cpp(82,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai07-Luong-Giao-Vien.vcxproj -> E:\CODE_HOME\BaiTap-Code-Tong-Hop\Debug\Bai07-Luong-Giao-Vien.exe

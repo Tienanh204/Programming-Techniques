@@ -1,0 +1,6 @@
+﻿  Code.cpp
+E:\CacThuatToan-SapXep\Merge-Sort\Code.cpp(12,10): warning C4018: '<': signed/unsigned mismatch
+E:\CacThuatToan-SapXep\Merge-Sort\Code.cpp(12,22): warning C4018: '<': signed/unsigned mismatch
+E:\CacThuatToan-SapXep\Merge-Sort\Code.cpp(25,11): warning C4018: '<': signed/unsigned mismatch
+E:\CacThuatToan-SapXep\Merge-Sort\Code.cpp(28,11): warning C4018: '<': signed/unsigned mismatch
+  Merge-Sort.vcxproj -> E:\CacThuatToan-SapXep\Debug\Merge-Sort.exe
